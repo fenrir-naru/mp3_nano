@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name mp3_nano)(type Legacy)(uri ${KIPRJMOD}/mp3_nano.lib)(options "")(descr ""))
+)
